@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "type": "message",
+      "content": "请处理此请求："
+    },
+    {
+      "type": "send_to",
+      "content": "CodeInterpreter"
+    },
+    {
+      "type": "init_plan",
+      "content": "1. 请求Code Interpreter处理请求；2. 与用户交互依赖地报告结果"
+    },
+    {
+      "type": "plan",
+      "content": "1. 请求Code Interpreter处理用户的请求；2. 向用户报告结果"
+    },
+    {
+      "type": "current_plan_step",
+      "content": "请求Code Interpreter处理请求"
+    }
+  ]
+}

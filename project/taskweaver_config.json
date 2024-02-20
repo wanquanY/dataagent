@@ -1,0 +1,8 @@
+{
+    "llm.api_base": "https://syner-openai-westus.openai.azure.com/",
+    "llm.api_key": "186dd197b6c74daa90403a377bcd2c8c",
+    "llm.api_type": "azure",
+    "llm.api_version": "2023-12-01-preview",
+    "llm.model": "syner-openai-gpt4"
+    }
+
